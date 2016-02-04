@@ -1,1 +1,1 @@
-''' add GUI code here, creater a basic GUI with a live loop '''
+''' add GUI code here, create a basic GUI with a live loop '''
