@@ -1,0 +1,114 @@
+/* beginning of login webpage */ 
+
+body { 
+	margin: 0;
+	padding: 0;
+	background-color: #CCCCCC;	
+}
+			
+.HeaderBox {
+	background-color: #39286C
+}
+			
+.Header {
+	color: #CCCCCC;
+	font-family: calibri;
+	font-size: 32pt;
+	text-indent: 10px;
+	margin: 6px;
+}
+			
+.Titles {
+	font-family: calibri;
+	font-weight: bold;
+	
+}
+			
+.Inputs {
+	font-family:calibri;
+}
+			
+.Button {
+	-webkit-appearance: button;
+	appearance: button;
+	width: 60px;
+	height: 20px;
+	text-decoration: none;
+	color: initial;
+	font-family:calibri;
+}
+			
+#LoginTable {
+	position: absolute;
+	left: 40%;
+	top: 100px;
+	margin-top: 100px;
+	
+}
+
+/* beginning of the circle gui webpage */ 
+
+#topLeft {
+	position:absolute;
+	margin-top:300px;
+	margin-left: 250px;
+}
+
+#topRight{
+	position:absolute;
+	margin-top: 300px;
+	margin-left: 450px;
+}
+
+#bottomLeft {
+	position:absolute;
+	margin-top: 500px;
+	margin-left:250px;
+}
+
+#bottomRight {
+	position:absolute;
+	margin-top:500px;
+	margin-left:450px;
+}
+
+p {
+	font-family:Calibri;
+	font-size:10pt;
+}
+
+#db1
+{
+	margin-top:350px;
+	position:absolute;
+	margin-left:230px;
+	font-size:20pt;
+	font-family: Calibri;
+}
+
+#db2 {
+	
+	margin-top:350px;
+	position:absolute;
+	margin-left:600px;
+	font-size:20pt;
+	font-family: Calibri;
+	
+}
+
+#db3 {
+	
+	margin-top:600px;
+	position:absolute;
+	margin-left:220px;
+	font-size:20pt;
+	font-family: Calibri;
+}
+
+#db4 {
+	margin-top:600px;
+	position:absolute;
+	margin-left:620px;
+	font-size:20pt;
+	font-family: Calibri;
+}
