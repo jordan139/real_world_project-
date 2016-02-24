@@ -112,3 +112,9 @@ p {
 	font-size:20pt;
 	font-family: Calibri;
 }
+
+div {
+	position: absolute;
+	right: 38px;
+	top: 0px;
+}
