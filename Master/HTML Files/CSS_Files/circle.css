@@ -50,26 +50,26 @@ body {
 
 #topLeft {
 	position:absolute;
-	margin-top:300px;
-	margin-left: 250px;
+	margin-top:160px;
+	margin-left: 526px;
 }
 
 #topRight{
 	position:absolute;
-	margin-top: 300px;
-	margin-left: 450px;
+	margin-top: 160px;
+	margin-left: 976px;
 }
 
 #bottomLeft {
 	position:absolute;
-	margin-top: 500px;
-	margin-left:250px;
+	margin-top: 610px;
+	margin-left:526px;
 }
 
 #bottomRight {
 	position:absolute;
-	margin-top:500px;
-	margin-left:450px;
+	margin-top:610px;
+	margin-left:976px;
 }
 
 p {
@@ -79,36 +79,33 @@ p {
 
 #db1
 {
-	margin-top:350px;
+	margin-top:250px;
 	position:absolute;
-	margin-left:230px;
+	margin-left:557px;
 	font-size:20pt;
-	font-family: Calibri;
+	
 }
 
 #db2 {
 	
-	margin-top:350px;
+	margin-top:250px;
 	position:absolute;
-	margin-left:600px;
+	margin-left:1290px;
 	font-size:20pt;
-	font-family: Calibri;
-	
+
 }
 
 #db3 {
 	
-	margin-top:600px;
+	margin-top:890px;
 	position:absolute;
-	margin-left:220px;
+	margin-left:557px;
 	font-size:20pt;
-	font-family: Calibri;
 }
 
 #db4 {
-	margin-top:600px;
+	margin-top:890px;
 	position:absolute;
-	margin-left:620px;
+	margin-left:1290px;
 	font-size:20pt;
-	font-family: Calibri;
 }
