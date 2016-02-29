@@ -1,0 +1,38 @@
+			
+.HeaderBox {
+	background-color: #39286C
+}
+			
+.Header {
+	color: #CCCCCC;
+	font-family: calibri;
+	font-size: 56pt;
+	text-indent: 10px;
+	margin: 6px;
+}
+
+div {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+p {
+	font-family:Calibri;
+	font-size:15pt;
+}
+
+#tableBorder{
+	
+	border: solid 4px #39286C;
+	border-collapse: collapse;
+	
+	
+}
+
+fontColor {
+	color :White;
+	
+}
+	
+	

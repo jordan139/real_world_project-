@@ -13,7 +13,7 @@ body {
 .Header {
 	color: #CCCCCC;
 	font-family: calibri;
-	font-size: 32pt;
+	font-size: 56pt;
 	text-indent: 10px;
 	margin: 6px;
 }
@@ -115,10 +115,13 @@ div {
 	position: absolute;
 	right: 0px;
 	top: 0px;
+<<<<<<< HEAD
 	margin-left:900px;
 }
 
 .buttons {
 	background-color: #39286C;
 	font-family: Calibri;
+=======
+>>>>>>> 95f84ad54b3c96ed296576bc5d53ae9304ce68ce
 }
