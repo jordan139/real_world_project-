@@ -115,13 +115,12 @@ div {
 	position: absolute;
 	right: 0px;
 	top: 0px;
-<<<<<<< HEAD
 	margin-left:900px;
 }
 
 .buttons {
 	background-color: #39286C;
 	font-family: Calibri;
-=======
->>>>>>> 95f84ad54b3c96ed296576bc5d53ae9304ce68ce
+	height: 40;
+	width: 40;
 }
