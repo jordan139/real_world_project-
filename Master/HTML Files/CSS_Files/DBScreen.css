@@ -26,12 +26,13 @@ p {
 	
 	border: solid 4px #39286C;
 	border-collapse: collapse;
-	
-	
 }
 
 fontColor {
 	color :White;
+}
 
-	
+#print {
+	position:absolute;
+	top:5000px;
 }
