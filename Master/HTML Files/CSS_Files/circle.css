@@ -7,7 +7,8 @@ body {
 }
 			
 .HeaderBox {
-	background-color: #39286C
+	background-color: #39286C;
+	top: 0px;
 }
 			
 .Header {
@@ -126,7 +127,15 @@ div {
 }
 
 #centreLogo {
+<<<<<<< HEAD
 	position: absolute;
 	margin-top:540px;
 	margin-left:735px;
 }
+=======
+	position:absolute;
+	margin-top:540px;
+	margin-left:735px;
+}
+
+>>>>>>> dca8a7f1c7660dd84a4953bcf78c78f793b87334
