@@ -126,5 +126,7 @@ div {
 }
 
 #centreLogo {
-	
+	position: absolute;
+	margin-top:540px;
+	margin-left:735px;
 }
