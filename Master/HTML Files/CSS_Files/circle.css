@@ -17,6 +17,7 @@ body {
 	font-size: 56pt;
 	text-indent: 10px;
 	margin: 6px;
+	padding-bottom: px
 }
 			
 .Titles {
@@ -126,16 +127,14 @@ div {
 	width: 40;
 }
 
-#centreLogo {
-<<<<<<< HEAD
-	position: absolute;
-	margin-top:540px;
-	margin-left:735px;
-}
-=======
-	position:absolute;
-	margin-top:540px;
-	margin-left:735px;
+#centreLogo{ 
+
+	position :absolute;
+	margin-top :540px;
+	margin-left :735px;
 }
 
->>>>>>> dca8a7f1c7660dd84a4953bcf78c78f793b87334
+
+
+
+
