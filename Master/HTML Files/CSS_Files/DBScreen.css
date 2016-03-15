@@ -26,6 +26,8 @@ p {
 	
 	border: solid 4px #39286C;
 	border-collapse: collapse;
+	padding-left:10px;
+	
 }
 
 fontColor {
@@ -36,9 +38,25 @@ fontColor {
 	position:absolute;
 	top:5000px;
 }
-.test {
+/*.test {
 	width:100px;
 	height:100px;
-	background-color: cyan;
+	background-color: green;
 	border-radius: 5px;
+}
+*/
+#masterDB {
+	position:absolute;
+	left: 8px;
+	margin-top:263px;
+	height:500px;
+	width:200px;
+	border: solid black 1px;
+}
+
+#upperTitle {
+	width:1250px;
+	border: solid;
+	position:absolute;
+	right:205px;
 }
