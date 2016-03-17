@@ -1,3 +1,4 @@
+
 #profile {
      background-color: #39286C;
      height:40;
@@ -52,7 +53,8 @@
     border: solid #CCCCCC 2px ;
     position:absolute;
     margin-top:250px;
-    margin-left:155px;
+    margin-left:100px;
+    right:0px;
     
     
 }
@@ -81,4 +83,19 @@
 
 #Placements {
     margin-top:450px;
+}
+
+.profileButtons {
+    background-color:#39286;
+    height:40;
+    width:40;
+    margin:auto;
+    
+}
+
+#Overlay2 {
+    position:absolute;
+    height:700px;
+    width:700px;
+   z-index: -1;
 }

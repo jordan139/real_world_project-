@@ -18,13 +18,9 @@ $(document).ready(function(){
 
 
 */ 
-/* hiding function
-$(".Header").animate({
-    fontSize: "+=20pt"
-    }
-    , 2000);
-    
-*/
+/*hiding function
+$("#Overlay").hide()
+    */
 
 /*$(document).ready(function(){
     $("div").click(function(){
@@ -33,3 +29,12 @@ $(".Header").animate({
     
 });
 */
+
+$(document).ready(function(){
+    $("#help").click(function(){
+        $("#Overlay2").fadeIn()    
+    });   
+    $("#help").click(function(){
+        $("#Overlay2").fadeOut()
+    });
+});
