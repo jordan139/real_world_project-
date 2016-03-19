@@ -99,3 +99,29 @@
     width:700px;
    z-index: -1;
 }
+
+.ALL{
+    font-family: Calibri;
+    font-weight: bold;
+    color: white;
+    background-color: #39286C;
+    height: 30px;
+    width: 100px;
+    padding-left:75px;
+    margin-left:150px;
+    padding-top: 12px;
+    
+    
+
+}
+
+
+
+
+#arrow{
+    
+    margin-left: 180px;
+    width:30px;
+    
+}
+
