@@ -22,15 +22,13 @@
     position:absolute;
     top:0;
     left:0px;
-   
-
     margin-top:0px;
     
     
 }
 
 #print {
-    margin-top:783px;
+    margin-top:500px;
     position: absolute;
     height: 150px;
     width:150px;
@@ -40,7 +38,7 @@
 #sideMenu {
     border: solid 2px#CCCCCC;
     height:783px;
-    width:150px;
+    width:160px;
     position:absolute;
     background-color: #CCCCCC;
     margin-top:127px;
@@ -61,14 +59,16 @@
 
 .menuButtons {
     height: 50px;
+    font-size: 20px;
     width:140px;
     position:absolute;
     border: solid #CCCCCC 2px;
-    margin-top:250px;
+    margin-top:0px
     font-family: Calibri;
     border-left: 7px solid #39286C;
     padding-left:5px;
     padding-top: 20px;
+    
     left:0px;
     
 }
@@ -78,11 +78,11 @@
 }
 
 #Appointments {
-    margin-top: 350px
+    margin-top: 150px
 }
 
 #Placements {
-    margin-top:450px;
+    margin-top:300px;
 }
 
 .profileButtons {
@@ -106,10 +106,10 @@
     color: white;
     font-size 20px;
     background-color: #39286C;
-    height: 30px;
+    height: 35px;
     width: 100px;
     padding-left:75px;
-    margin-left:150px;
+    margin-left:160px;
     padding-top: 5px;
     
     
@@ -125,7 +125,7 @@
     position: relative;
     background-color:#39286C; 
     width: 40px;
-    height:30px;
+    height:40px;
     margin-top: -35px;
     margin-left: 300px;
     height: 30px;
@@ -145,6 +145,7 @@
     border-color: #39286C;
     background-color: white;
     
+    
 }
 
 #borderBox{
@@ -155,9 +156,9 @@
     border-color:#39286C;
     background-color: white;
     width:2000px;
-    height:30px;
-    margin-top: -30px;
-    margin-left: 340px;
+    height:32px;
+    margin-top: -35px;
+    margin-left: 330px;
     
     
     
