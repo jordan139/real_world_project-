@@ -62,7 +62,7 @@
 .menuButtons {
     height: 50px;
     width:140px;
-    position: absolute;
+    position:absolute;
     border: solid #CCCCCC 2px;
     margin-top:250px;
     font-family: Calibri;
@@ -104,6 +104,7 @@
     font-family: Calibri;
     font-weight: bold;
     color: white;
+    font-size 20px;
     background-color: #39286C;
     height: 30px;
     width: 100px;
@@ -120,14 +121,45 @@
 
 #arrow{
     
-    margin-left: 180px;
-    width:0px;
-    position: absolute;
+    
+    position: relative;
+    background-color:#39286C; 
+    width: 40px;
+    height:30px;
+    margin-top: -35px;
+    margin-left: 300px;
+    height: 30px;
+    
+    
     
 }
 
 #box{
-    color: red;
+    position: relative;
+    background-color:#39286C; 
+    width: 501px;
+    height:30px;
+    margin-left: 340px;
+    height: 30px;
+    border-style: solid;
+    border-color: #39286C;
+    background-color: white;
+    
+}
+
+#borderBox{
+    
+    color:red;
+    background-color: white;
+    border-style: solid;
+    border-color:#39286C;
+    background-color: white;
+    width:2000px;
+    height:30px;
+    margin-top: -30px;
+    margin-left: 340px;
+    
+    
     
     
 }
