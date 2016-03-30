@@ -1,0 +1,22 @@
+#printButton {
+    position: fixed;
+    width:100px;
+    height: 100px;
+    bottom:50px;
+    left:0px;
+}
+
+#dropdown {a
+    border: solid #39286C 3px;
+    width:125px;
+    height:30px;
+    background-color: #39286C;
+    
+    
+}
+
+#dropDown_text {
+    color:white;
+    
+    
+}
