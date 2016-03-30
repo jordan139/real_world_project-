@@ -1,0 +1,48 @@
+#mainTitle{
+    
+    width:100%;
+    height:90px;
+    font-size:35pt;
+    font-family: Calibri;
+    background-color:#39286C;
+    color:white;
+    padding-top:45px;
+    padding-left:30px;
+    position:fixed;
+    top:0;
+    left:0px;
+    margin-top:0px;
+}
+
+#printButton{
+    position: fixed;
+    width:100px;
+    height: 100px;
+    bottom:50px;
+    left:0px;
+    z-index: 1;
+    margin-left: 25px;
+}
+
+#sideMenuBacking{
+    border: solid 2px#CCCCCC;
+    height:100%;
+    width:160px;
+    position:fixed;
+    background-color: #CCCCCC;
+    margin-top:126px;
+    left:0px;
+    z-index: 0;
+}
+
+#addButton{
+    
+    width:100px;
+    height:30px;
+    background-color: #39286C;
+    margin-left:17px;
+    margin-top: 410px;
+    position: fixed;
+    text-align: center;
+    
+}
