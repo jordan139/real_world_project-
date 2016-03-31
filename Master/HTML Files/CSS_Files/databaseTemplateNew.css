@@ -16,6 +16,7 @@
     top:0;
     left:0px;
     margin-top:0px;
+    z-index: -1;
 }
 
 #printButton{
@@ -60,11 +61,35 @@
     
     width:100px;
     height:30px;
-    background-color: #39286C;
-    margin-left:17px;
-    margin-top: 410px;
+    bottom:160px;
+    left: 25px;
+    background-color: #39286C; 
     position: fixed;
     text-align: center;
 
     
+}
+
+#userIcon{
+    border : none;
+    position:fixed;
+    z-index: 4;
+    margin-left: 50px;
+    margin-top: 0%;
+    background-color: #39286C;
+}
+
+.tableData {
+    
+    width: 30px;
+    height: 50px;
+    margin: auto;
+   
+}
+
+#userImage{
+    height:150px;
+    background-color: none; 
+    
+
 }
