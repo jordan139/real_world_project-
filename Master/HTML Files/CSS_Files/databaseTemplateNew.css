@@ -1,7 +1,11 @@
+
+#printButton {
+
+}
 #mainTitle{
     
     width:100%;
-    height:90px;
+    height:100px;
     font-size:35pt;
     font-family: Calibri;
     background-color:#39286C;
@@ -16,13 +20,30 @@
 }
 
 #printButton{
+
     position: fixed;
     width:160px;
     height: 160px;
     bottom:150px;
     left: -5px;
     z-index: 1;
-    margin-left: 25px;
+
+}
+
+#dropdown {
+    border: solid #39286C 3px;
+    width:125px;
+    height:30px;
+    background-color: #39286C;
+    
+    
+}
+
+#dropDown_text {
+    color:white;
+    position:fixed;
+    top:100px;
+    
 }
 
 #sideMenuBacking{
@@ -45,6 +66,7 @@
     background-color: #39286C; 
     position: fixed;
     text-align: center;
+
     
 }
 

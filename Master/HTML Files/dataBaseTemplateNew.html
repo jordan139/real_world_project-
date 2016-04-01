@@ -10,8 +10,14 @@
 	<link rel="stylesheet" type="text/css" href="CSS_Files/databaseTemplateNew.css">
 	
 	</head>
+
+    <div>
+        	<a href = "javascript:window.print()"><img id = "printButton" src ="Images/print_button.png"></a>    
+    </div>
+    <!--UNCOMMENT WHEN HTML IS COMPPLETE <img src="Images/Record_Screen_Overlay.png"></img>-->
+
 	<body>
-    <div><a href = "javascript:window.print()"><img id = "printButton" src ="Images/print_button.png"></a></div>
+
 	<div id = "mainTitle">[Title of Database Here]</div>
 	<div id = "sideMenuBacking"></div>
 	<div id = "addButton" ><img src ="Images/add.png"></div>
@@ -39,3 +45,21 @@
     <div class = "sideMenuButtons" id = "id2">Placements</div>
 
 	<body>
+    <div class="container" id ="dropdown">
+        <!-- Dropdown -->
+        <div class="dropdown">
+            <a id = "dropDown_text" data-toggle="dropdown" data-target="#" href="http://www.google.com">
+                Select a filter <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                <li><a href="#">ALL</a></li>
+                <li><a href="#">Tutors</a></li>
+                <li><a href="#">Company</a></li>
+                
+            </ul>
+        </div>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
